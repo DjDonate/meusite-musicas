@@ -1,0 +1,6 @@
+body{background:#0b0b0b;color:#fff;display:flex;font-family:Arial;}
+.sidebar{width:220px;background:#000;height:100vh;padding:20px;}
+.content{flex:1;padding:30px;}
+.song{padding:15px;background:#181818;margin-bottom:10px;border-radius:8px;}
+.player{position:fixed;bottom:0;left:220px;right:0;background:#181818;padding:15px;}
+audio{width:300px;}
